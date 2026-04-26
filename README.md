@@ -43,8 +43,7 @@ The model considers:
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](<img width="1156" height="770" alt="dashboard_preview" src="https://github.com/user-attachments/assets/d6edf796-057f-4f23-9e24-9d4e58df62ac" />
-)
+![Dashboard Preview]<img width="1156" height="770" alt="dashboard_preview" src="https://github.com/user-attachments/assets/d6edf796-057f-4f23-9e24-9d4e58df62ac" />
 
 ---
 
